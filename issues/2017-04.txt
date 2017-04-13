@@ -1,0 +1,172 @@
+
+---------------------------------------------------------------------------
+hello friends and welcome to the first edition of this, the tilde.town
+times! the tilde.town times is a newsletter about what is happening on
+tilde.town. it publishes on or around the 15th of every month and is
+completely open to contributions! please see the section on contributing
+if you would like to help towards the next edition.
+
+  __       __   __           ___                __           __
+ / /____ _/ /  / /__   ___  / _/ _______  ___  / /____ ___  / /____
+/ __/ _ `/ _ \/ / -_) / _ \/ _/ / __/ _ \/ _ \/ __/ -_) _ \/ __(_-<
+\__/\_,_/_.__/_/\__/  \___/_/   \__/\___/_//_/\__/\__/_//_/\__/___/
+---------------------------------------------------------------------------
+1. tilde news
+2. new software
+3. an interview with tilde.town member ~troido
+4. ~ page spotlight. this month: ~nossidge
+5. new members
+6. a note from the editor
+7. a moment of reflection
+
+  ___    __  _ __   __
+ <  /   / /_(_) /__/ /__   ___  ___ _    _____
+ / /   / __/ / / _  / -_) / _ \/ -_) |/|/ (_-<
+/_(_)  \__/_/_/\_,_/\__/ /_//_/\__/|__,__/___/
+---------------------------------------------------------------------------
+hello and welcome to the tilde newsdesk. not all of these developments
+are recent but then this is the first issue and so everything from now
+until the very beginning of time is technically within our remit for
+"news". therefore I will try to be brief.
+
+NEW SIGNUP TOOLS!
+
+our beneficent overlord ~vilmibm (tilde.town/~vilmibm) has created
+an amazing set of new user tools! the code is all available in the github
+repo here (https://github.com/tildetown/tildetown-admin) and there are a
+bunch of issues that anyone is welcome to pick up here
+(https://github.com/tildetown/tildetown-admin/issues). all contributions
+are very welcome!
+
+NEW MASTODON INSTANCE!
+
+tilde.town hero ~insom (tilde.town/~vilmibm) has created a mastodon node
+for us at https://tiny.tilde.website. here you can sign up and see what
+all other members of tilde.town are tooting about. toot away!
+
+STARBOUND SERVER!!
+
+we still have a starbound server at starbound.tilde.town! sign up today
+if you would like to do a space imperialism. more details / starbound
+chat on the irc channel, #starbound
+
+   ___                                 _____
+  |_  |    ___  ___ _    __  ___ ___  / _/ /__    _____ ________
+ / __/_   / _ \/ -_) |/|/ / (_-</ _ \/ _/ __/ |/|/ / _ `/ __/ -_)
+/____(_) /_//_/\__/|__,__/ /___/\___/_/ \__/|__,__/\_,_/_/  \__/
+---------------------------------------------------------------------------
+we have a couple of amazing new pieces of software available to everyone.
+
+BOTANY!
+
+botany is a wonderful place where you can go if you would like to grow a
+plant. water your plant and play it electronic music. don't neglect your
+plant or it will whither and die. here is the editor's plant:
+
+                              +
+                              |/
+                             \|
+                              |/
+                             \|
+                  .  , _ . ., l, _ ., _ .
+                    ^      '        `    '
+
+an oozing young snapdragon. thank you so much to ~curioser
+(https://tilde.town/~curiouser/) for this amazing project.
+
+A FORUM!
+
+~desvox (https://tilde.town/~desvox/) brings us an amazing forum tool!
+access it with the command bbj. go and chat with your fellow tilde
+friends.
+
+   ____  __           _    __       _      __               _
+  |_  / / /________  (_)__/ /__    (_)__  / /____ _____  __(_)__ _    __
+ _/_ <_/ __/ __/ _ \/ / _  / _ \  / / _ \/ __/ -_) __/ |/ / / -_) |/|/ /
+/____(_)__/_/  \___/_/\_,_/\___/ /_/_//_/\__/\__/_/  |___/_/\__/|__,__/
+---------------------------------------------------------------------------
+it is our pleasure to present an interview with prolific tilde.town member
+~troido (http://tilde.town/~troido/)
+
+  ____                   __  ___      __   __
+ / / /    ___ ___  ___  / /_/ (_)__ _/ /  / /_
+/_  _/   (_-</ _ \/ _ \/ __/ / / _ `/ _ \/ __/
+ /_/(_) /___/ .__/\___/\__/_/_/\_, /_//_/\__/
+-----------/_/----------------/___/----------------------------------------
+
+~ page spotlight is an area where we take a look at a user's ~ page. old
+or new, this is an opportunity to shed light on some of the beautiful 
+projects that are hosted on tilde.town. this month we're looking at 
+~nossidge (http://tilde.town/~nossidge).
+
+there's lots to love about nossidge's ~ page. I think the most surprising
+thing for me is the sheer breadth of stuff on here. every time I visit
+this page I find something new and every time that thing is completely
+amazing.
+
+for those unfamiliar with nossidge's oeuvre, a perfect place to start
+is the collection of javascript experiments
+(http://tilde.town/~nossidge/tilde). nossidge describes them as "a
+collection of tilde themed JavaScript sketches that lead to the next".
+the artistry on display here is really striking. each experiment
+is surprising and delightful in a different way. they're a really
+sweet display of nossidge's aesthetic and their amazing technical skills.
+
+of the other things on the page there are too many to do justice. the
+poetry strewn across the page is unrelentingly wonderful. my favourites
+are the procedural poems made from game text with sonnet the hedgehog
+(http://tilde.town/~nossidge/#sonic) being a stand-out.
+
+but amongst the more obvious items are some less well-known delights.
+here to say (http://tilde.town/~nossidge/heretosay) is a constant
+delight. quiz (http://tilde.town/~nossidge/quiz) and crossword
+(http://tilde.town/~nossidge/crossword) are wonderful uses of the irc
+logs. pac man (http://tilde.town/~nossidge/pacman) is a mind-blowing
+achievement.
+
+~nossidge's page demonstrates a really rare combination of digital artistry
+and technical mastery. their page is truly inspiring and an outstanding
+example of what can be achieved by our community.
+
+   ____                                       __
+  / __/    ___  ___ _    __  __ _  ___ __ _  / /  ___ _______
+ /__ \_   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
+/____(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
+---------------------------------------------------------------------------
+welcome everyone who has joined recently! here are the new members and
+their ~ pages. a ** indicates they have updated their index page!
+
+• http://tilde.town/~the_tation/
+• http://tilde.town/~stuck/        **
+• http://tilde.town/~leetspoofer/
+• http://tilde.town/~tehfraga/
+
+  ____            ___ __          _                  __
+ / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
+/ _ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
+\___(_)  \__/\_,_/_/\__/\___/_/   /___/ /_//_/\___/\__/\__/
+---------------------------------------------------------------------------
+hello everyone! editing the tilde.town times is great fun but it is also
+a fair bit of work. my hope with this project is to get more people
+collaborating on the amazing things going on around the town and also
+provide more visibility for different projects. you can help out by
+contributing to the newsletter! there is a github repo for it here
+(https://github.com/tildetown/newsletter) where you can read the
+CONTRIBUTING.md for info on how to get involved. I would love it
+if you could contribute whatever you can. thank you for reading.
+
+~jumblesale x
+
+ ____            _____        __  _
+/_  /   _______ / _/ /__ ____/ /_(_)__  ___
+ / /   / __/ -_) _/ / -_) __/ __/ / _ \/ _ \
+/_(_) /_/  \__/_//_/\__/\__/\__/_/\___/_//_/
+---------------------------------------------------------------------------
+our moment of reflection this month comes from tilde.town member ~elly
+(http://tilde.town/~elly/).
+
+"the key to being positive is to regularly take time to appreciate the
+beauty of the world and all things in it imo"
+
+thanks elly.
+
