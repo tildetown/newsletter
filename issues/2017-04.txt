@@ -1,4 +1,12 @@
+        _
+    o  | |    |                                     o
+_|_    | |  __|   _  _|_  __           _  _     _|_     _  _  _    _   ,
+ |  |  |/  /  |  |/   |  /  \_|  |  |_/ |/ |     |  |  / |/ |/ |  |/  / \_
+ |_/|_/|__/\_/|_/|__/o|_/\__/  \/ \/    |  |_/   |_/|_/  |  |  |_/|__/ \/
+===========================================================================
 
+
+APRIL 2017
 ---------------------------------------------------------------------------
 hello friends and welcome to the first edition of this, the tilde.town
 times! the tilde.town times is a newsletter about what is happening on
@@ -13,11 +21,10 @@ if you would like to help towards the next edition.
 ---------------------------------------------------------------------------
 1. tilde news
 2. new software
-3. an interview with tilde.town member ~troido
-4. ~ page spotlight. this month: ~nossidge
-5. new members
-6. a note from the editor
-7. a moment of reflection
+3. ~ page spotlight. this month: ~nossidge
+4. new members
+5. a note from the editor
+6. a moment of reflection
 
   ___    __  _ __   __
  <  /   / /_(_) /__/ /__   ___  ___ _    _____
@@ -80,19 +87,11 @@ A FORUM!
 access it with the command bbj. go and chat with your fellow tilde
 friends.
 
-   ____  __           _    __       _      __               _
-  |_  / / /________  (_)__/ /__    (_)__  / /____ _____  __(_)__ _    __
- _/_ <_/ __/ __/ _ \/ / _  / _ \  / / _ \/ __/ -_) __/ |/ / / -_) |/|/ /
-/____(_)__/_/  \___/_/\_,_/\___/ /_/_//_/\__/\__/_/  |___/_/\__/|__,__/
----------------------------------------------------------------------------
-it is our pleasure to present an interview with prolific tilde.town member
-~troido (http://tilde.town/~troido/)
-
-  ____                   __  ___      __   __
- / / /    ___ ___  ___  / /_/ (_)__ _/ /  / /_
-/_  _/   (_-</ _ \/ _ \/ __/ / / _ `/ _ \/ __/
- /_/(_) /___/ .__/\___/\__/_/_/\_, /_//_/\__/
------------/_/----------------/___/----------------------------------------
+   ____                  __  ___      __   __
+  |_  /    ___ ___  ___  / /_/ (_)__ _/ /  / /_
+ _/_ <_   (_-</ _ \/ _ \/ __/ / / _ `/ _ \/ __/
+/____(_) /___/ .__/\___/\__/_/_/\_, /_//_/\__/
+------------/_/----------------/___/---------------------------------------
 
 ~ page spotlight is an area where we take a look at a user's ~ page. old
 or new, this is an opportunity to shed light on some of the beautiful 
@@ -128,10 +127,10 @@ achievement.
 and technical mastery. their page is truly inspiring and an outstanding
 example of what can be achieved by our community.
 
-   ____                                       __
-  / __/    ___  ___ _    __  __ _  ___ __ _  / /  ___ _______
- /__ \_   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
-/____(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
+  ____                                       __
+ / / /    ___  ___ _    __  __ _  ___ __ _  / /  ___ _______
+/_  _/   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
+ /_/(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
 ---------------------------------------------------------------------------
 welcome everyone who has joined recently! here are the new members and
 their ~ pages. a ** indicates they have updated their index page!
@@ -141,10 +140,10 @@ their ~ pages. a ** indicates they have updated their index page!
 • http://tilde.town/~leetspoofer/
 • http://tilde.town/~tehfraga/
 
-  ____            ___ __          _                  __
- / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
-/ _ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
-\___(_)  \__/\_,_/_/\__/\___/_/   /___/ /_//_/\___/\__/\__/
+   ____            ___ __          _                  __
+  / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
+ /__ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
+/____(_)  \__/\_,_/_/\__/\___/_/   /___/ /_//_/\___/\__/\__/
 ---------------------------------------------------------------------------
 hello everyone! editing the tilde.town times is great fun but it is also
 a fair bit of work. my hope with this project is to get more people
@@ -157,10 +156,10 @@ if you could contribute whatever you can. thank you for reading.
 
 ~jumblesale x
 
- ____            _____        __  _
-/_  /   _______ / _/ /__ ____/ /_(_)__  ___
- / /   / __/ -_) _/ / -_) __/ __/ / _ \/ _ \
-/_(_) /_/  \__/_//_/\__/\__/\__/_/\___/_//_/
+  ____             _____        __  _
+ / __/    _______ / _/ /__ ____/ /_(_)__  ___
+/ _ \_   / __/ -_) _/ / -_) __/ __/ / _ \/ _ \
+\___(_) /_/  \__/_//_/\__/\__/\__/_/\___/_//_/
 ---------------------------------------------------------------------------
 our moment of reflection this month comes from tilde.town member ~elly
 (http://tilde.town/~elly/).
