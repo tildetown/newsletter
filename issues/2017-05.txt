@@ -1,0 +1,370 @@
+        _
+    o  | |    |                                     o
+_|_    | |  __|   _  _|_  __           _  _     _|_     _  _  _    _   ,
+ |  |  |/  /  |  |/   |  /  \_|  |  |_/ |/ |     |  |  / |/ |/ |  |/  / \_
+ |_/|_/|__/\_/|_/|__/o|_/\__/  \/ \/    |  |_/   |_/|_/  |  |  |_/|__/ \/
+===========================================================================
+
+
+MAY 2017
+---------------------------------------------------------------------------
+hello friends and welcome to a very special may edition of the tilde.town 
+times. the tilde.town times is a newsletter about what is happening on
+tilde.town. it publishes on or around the 15th of every month and is
+completely open to contributions! please see the section on contributing
+if you would like to help towards the next edition.
+
+this month we have a whole bunch of new users joined, a great big
+interview with tilde.town user troido and various treats from around
+the town. we hope you enjoy reading!
+
+  __       __   __           ___                __           __
+ / /____ _/ /  / /__   ___  / _/ _______  ___  / /____ ___  / /____
+/ __/ _ `/ _ \/ / -_) / _ \/ _/ / __/ _ \/ _ \/ __/ -_) _ \/ __(_-<
+\__/\_,_/_.__/_/\__/  \___/_/   \__/\___/_//_/\__/\__/_//_/\__/___/
+---------------------------------------------------------------------------
+1. tilde news
+2. around the town
+3. the troido interview
+4. new members
+5. a note from the editor
+6. a moment of reflection
+
+  ___    __  _ __   __
+ <  /   / /_(_) /__/ /__   ___  ___ _    _____
+ / /   / __/ / / _  / -_) / _ \/ -_) |/|/ (_-<
+/_(_)  \__/_/_/\_,_/\__/ /_//_/\__/|__,__/___/
+---------------------------------------------------------------------------
+hello and welcome to the tilde.town newsdesk. here is all the news that
+has happened this month.
+
+BOTANY UPDATE!
+
+news comes from ~curioser that their amazing botany program has received
+a substantial update:
+
+"If you raise your plant all the way to the final stage (seed-bearing) and
+choose to harvest it, your next plant will grow 20% faster. You'll get a
+20% bonus for each plant brought to its final stage."
+
+if you haven't planted anything yet just run botany from the terminal and
+have a wonderful time caring for your new plant friend.
+
+
+STARBOUND SERVER EXPANDED!
+
+the starbound server has received a RAM upgrade! it now has twice as many
+of RAM! wow that is so much RAM!! R A M ! !
+
+
+FIFTY USER MILESTONE!
+
+during the month we have had our first day with 50 users online at once!
+following an initial burst of interest when the first few tilde boxes went
+online, it seems that most other tilde communities have seen their active
+userbases dwindle. this is a tragedy since the ideas of shared digital art
+spaces and deliberate community building should extend well beyond initial
+novelty.
+
+if pressed to speculate why tilde.town has not seen the same user attrition
+I would guess it is due to being so fortunate to find such an amazing bunch
+of users to join. the town has always had a really excellent code of
+conduct (http://tilde.town/~wiki/conduct.html) which sets out a shared
+vision of how the community would like the town to be which sets it far
+apart from basically every other online community out there. what's really
+special about the town is that the coc has had to be invoked so rarely.
+
+tilde.town offers a unique space on an increasingly hostile web and I
+think that is what users have responded to so positively. people join with
+a sincere intention to explore and contribute. users are friendly and
+positive by default. drama is a rare exception. I feel incredibly
+fortunate to share a cyberspace realm with such an inspiring group of
+people.
+
+
+ZAZZLE!
+
+fans of capitalism will love checking out the amazing variety of 
+tilde.town-themed things you can now buy over at
+https://www.zazzle.com/tildetownswaggery/products !
+
+
+   ___                              __  __  __         __
+  |_  | ___ ________  __ _____  ___/ / / /_/ /  ___   / /____ _    _____
+ / __/_/ _ `/ __/ _ \/ // / _ \/ _  / / __/ _ \/ -_) / __/ _ \ |/|/ / _ \
+/____(_)_,_/_/  \___/\_,_/_//_/\_,_/  \__/_//_/\__/  \__/\___/__,__/_//_/
+---------------------------------------------------------------------------
+CHINESE LESSONS!
+http://tilde.town/~m455/stuff.html
+m455 has updated their already really amazing retro page by adding chinese
+lessons! you can find a link to the repo on the page above. m455，谢谢!
+
+LOVELY PHOTOS!
+http://tilde.town/~atomicglee/bitpics.html
+atomicglee has added some really lovely photos on their page. let's all
+take some black and white photos and collect them all together somewhere!
+
+BOTANY GARDEN!
+http://tilde.town/~troido/hortus.txt
+troido absolutely nails it AGAIN with a communal garden for everyone's
+botany plants. don't forget to water your seedlings or they will die
+and only you will be responsible.
+
+COMMUNAL YOUTUBE PLAYLIST?!
+http://tilde.town/~resir014/tildetv
+resir014 and karlen have teamed up to build this truly incredible project.
+you can add youtube links and then watch a playlist of them. at the time
+of publishing there are three videos on there and they are a real treat.
+this is a really amazing project and a great example of the power of
+collaboration on the town
+
+DIGITAL ART!
+http://tilde.town/~joe
+joe's updates are never less than beautiful, thoughtful pieces of html
+art. this latest creation is no exception.
+
+   ____     _      __               _
+  |_  /    (_)__  / /____ _____  __(_)__ _    __
+ _/_ <_   / / _ \/ __/ -_) __/ |/ / / -_) |/|/ /
+/____(_) /_/_//_/\__/\__/_/  |___/_/\__/|__,__/
+---------------------------------------------------------------------------
+this month we speak to town member troido about their recent projects!
+
+
+    hi trodio! thank you for taking the time to speak to us.
+    perhaps you could start with a introduction and maybe talk a little
+    about why you joined tilde.town?
+
+I'm Troido (I won't mention my real name here, but it isn't hard to find).
+
+I am currently a student Computing Science.
+I have done programming as a hobby for quite a while too.
+
+During secondary school I started programming.
+First I mainly worked in game maker and on the graphical calculator.
+A while later I learned javascript (actually, somebody advised me to learn
+java, but once I found out they were different things I already had a
+basic knowledge of how to do things with javascript so I stayed with it).
+During that time I had my personal website (troido.nl) for my programming
+tests.
+
+Around december 2014 a friend of me, Qqwy, introduced me to the
+tildeverse.
+I initially joined tilde.red.
+After a while I made an account on tilde.town, but I haven't been
+active here (looking back at the irc logs I see I connected to the chat a
+few times, but it stayed with that).
+I also joined perispomeni.club, which was created by a tilde.red friend.
+After the initial tilde hype had cooled down, like many other tildes
+tilde.red became less and less active.
+Halfway 2016 the tilde.red server closed.
+
+Then, about 2 months ago I wanted to join a living tilde community again.
+I chose tilde.town because it looked the most livelly (at first I forgot
+that I made an account already so I tried joining again).
+
+What I found here was an awesome community, so I'm really glad I did
+
+
+    I can see you were a member of tilde.red and perispomeni.club
+    (http://perispomeni.club/~troido/) before joining tilde.town. how
+    would you characterise those communities? are there any ways in which
+    tilde.town is significantly different?
+
+Both communities are smaller than tilde.town.
+
+Perispomeni.club was created while the tilde hype was fading, and
+unfortunately never really took off (or if it did, I missed it).
+While writing this peripomeni.club has shut down. Tsangiotis, the founder
+of perispomeni.club has anounced that he will join tilde.town
+
+Tilde.red had as identity a bit more focus on the web pages.
+It profilated a bit more as a place to upload nice or weird html and css
+stuff.
+I think description of the tilde mentioned breaking all html taboos
+
+The tilde.red website is not online anymore, but the backup is still
+available as tilde.cagir.me
+All the links on the main page (and many links on other pages) are broken,
+but the pages can still be viewed if you replace 'www.tilde.red' with
+'tilde.cagir.me' in the url (or 'troido.tilde.red' with
+'tilde.cagir.me/~troido' since there were subdomains).
+
+
+    I think one of my favourite things about the stuff you’ve made is
+    their playfulness and sense of exploration. you’ve made things
+    including a platform game (http://perispomeni.club/~troido/platform/),
+    a 3D CSS webpage (http://perispomeni.club/~troido/index_css3.html) and
+    a whole collection of browser games
+    (http://perispomeni.club/~troido/troido). what motivates you to build
+    these?
+
+One of the reasons I like making these things is the puzzling aspect for
+me.
+When playing a normal puzzle, you're usually limited to te creativity
+of the creator.
+With programming, you can create your own approach to solve these puzzles.
+
+Another great motivation for some games is building a world, my own world,
+that I can share with others.
+I have a lot of ideas about other realms that I would want to make it a
+game.
+The platformer and desolate-gorge.herokuapp.com are the main examples for
+this, but I have some very old game-maker projects too.
+Even though I mainly get stuck on the creation of functionality instead of
+the world, I like working on this, hoping to create something playable someday.
+
+The css3d thing was made to create some unique identity.
+Many users on tilde.red had weird html in their pages.
+I had expirimented with this already before, so I saw an oppertunity to
+profile myself with this.
+
+
+    since joining tilde.town your projects feel like they have been more
+    collaborative. we’ve seen the wonderful cadastre
+    (http://tilde.town/~troido/cadastre/) and you’re also working on a
+    terminal-based multiplayer shooter and now a MMORPG. has there been a
+    reason to start creating multiplayer experiences? have you found it
+    easy to collaborate on different projects?
+
+I learned how to make multiplayer things 2 years ago, on tilde.red.
+For some reason I can't remember the IRC was down so I decided to make my
+own chat program.
+Around that time I also got the idea to make an ascii multiplayer rpg on
+tilde.
+
+After that I haven't been on any tilde for a while.
+I did get some more experience in networking during that time.
+When I got on tilde again I decided that I still wanted to make a
+multiplayer sandbox game so the tildezitens could make a town in the game.
+
+I started coding the rpg, but soon I realized that it was quite an
+ambitions idea.
+Having way to many projects that never finished I decided to simplify and
+make the game Tron instead (run the command 'tron' to try).
+
+Once I had a working multiplayer ascii game engine it became easier to
+make more of those games, so when someone (I think it was m455) mentioned
+that we needed a UT server I decided "Why not make our own shooter".
+What also helped was the feedback on my earlier ascii 3d attempts.
+I still like the idea of this but I worry about how playable it would be
+since for most people the lag would probably be terrible.
+
+Having recycled the code into Tron and Doom, I decided to recycle the idea
+of "everybody can make their own home which together forms a town" into
+cadastre.
+
+By now I have continued working on the original project, and while it is
+far from finished (if it ever will be) I hope to have something that is
+fun to play soon.
+
+
+I think tilde.town is a very good place for multiplayer games and
+collaborative projects.
+This place has a great community of enthousiast people, who will quickly
+give feedback on the projects.
+For games projects that are exposed to all the internet, extreme care has
+to be taken to prevent trolls and hackers from ruining it all, while I
+think the users of tilde can generally be trusted.
+
+    on the subject of cadastre could you talk a little about the
+    experience of creating that? how did you feel about its reception?
+    what plans do you have for it in the immediate future?
+
+I had mentioned the idea for cadastre once in the irc, when discussing
+about what the town would need.
+After you mentioned using cron, I knew all technology needed to make
+cadastre.
+Making cadastre was one of the easiest things I made.
+In an afternoon I had made the code, let some townies try it, and fix the
+bugs found (line wrapping and javascript injection).
+
+The next morning I implemented it so that parts of the parcel can be a
+link to some webpage.
+Later I implemented public parcels, but apart from that I haven't changed
+much.
+
+I am quite surprised that it became so popular, since it's one of my
+simplest things.
+I suppose projects that inspire creativity are often a good idea.
+
+I am not sure yet what would be a good way to continue cadastre, since it
+works pretty well as it is, and I think minimalism is an important
+feature.
+The best thing to do now is to involve the community now in the plans.
+I would love more suggestions for new features and other improvements.
+While writing this I decided to make a bbj thread for cadastre.
+
+    are there any other projects on the town you have really enjoyed?
+
+There are several projects I enjoyed:
+
+One of the first things I encountered on tilde.town was botany by
+curiouser.
+It is a slow paced game that gives yet another reason to come back to the
+town.
+
+Another project I really like is BBJ.
+Having forums was reallly something the town needed.
+Desvox did a wonderful job on this.
+
+The !talklike bot always makes me smile too.
+Almost all generated sentences are very realistic.
+
+    thank you so much for participating in the newsletter! any final
+    words?
+
+Thank you all for making tilde.town such an awesome place.
+
+  ____                                       __
+ / / /    ___  ___ _    __  __ _  ___ __ _  / /  ___ _______
+/_  _/   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
+ /_/(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
+---------------------------------------------------------------------------
+welcome everyone who has joined recently! here are the new members and
+their ~ pages. a ** indicates they have updated their index page!
+
+• http://tilde.town/~marcelle/
+• http://tilde.town/~rmo/
+• https://tilde.town/~greely/     **
+• http://tilde.town/~atomicglee/  **
+• http://tilde.town/~superloach/
+• http://tilde.town/~robrtsql/    **
+• http://tilde.town/~gioabel/     **
+• http://tilde.town/~theresatagonmyshirt/
+• http://tilde.town/~awanhitam/
+• http://tilde.town/~tortoise/    **
+• http://tilde.town/~owen/        **
+• http://tilde.town/~jasp/        **
+• http://tilde.town/~paladinjack/
+• http://tilde.town/~csilverman/  **
+• http://tilde.town/~lycaon/      **
+• http://tilde.town/~joniwoni/    **
+• http://tilde.town/~jacobi/
+• http://tilde.town/~aidotato5/
+• http://tilde.town/~flyboibubba/ **
+• http://tilde.town/~tensei/
+
+   ____            ___ __          _                  __
+  / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
+ /__ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
+/____(_)  \__/\_,_/_/\__/\___/_/   /___/ /_//_/\___/\__/\__/
+---------------------------------------------------------------------------
+thank you so much for all the help I've had for this issue! special thanks
+to troido for taking so much time to contribute the amazing interview
+and also to everyone on the town for their continued contributions.
+
+writing the newsletter is a pleasure but also it takes a bunch of time.
+if you would like to help contribute then that would be so welcome.
+even just writing up the new members section would be a huge help.
+details on contributing are available on the github repo:
+https://github.com/tildetown/newsletter
+
+  ____             _____        __  _
+ / __/    _______ / _/ /__ ____/ /_(_)__  ___
+/ _ \_   / __/ -_) _/ / -_) __/ __/ / _ \/ _ \
+\___(_) /_/  \__/_//_/\__/\__/\__/_/\___/_//_/
+---------------------------------------------------------------------------
+the moment of reflection this month comes from troido:
+
+"Thank you all for making tilde.town such an awesome place."
