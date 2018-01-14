@@ -1,0 +1,174 @@
+        _
+    o  | |    |                                     o
+_|_    | |  __|   _  _|_  __           _  _     _|_     _  _  _    _   ,
+ |  |  |/  /  |  |/   |  /  \_|  |  |_/ |/ |     |  |  / |/ |/ |  |/  / \_
+ |_/|_/|__/\_/|_/|__/o|_/\__/  \/ \/    |  |_/   |_/|_/  |  |  |_/|__/ \/
+===========================================================================
+
+
+JANUARY 2018
+---------------------------------------------------------------------------
+hello friends and welcome to a very special january edition of the
+tilde.town times. the tilde.town times is a newsletter about what is
+happening on tilde.town. it publishes on or around the 15th of every month
+and is completely open to contributions! please see the section on
+contributing if you would like to help towards the next edition.
+
+this month the newsletter returns after a long hiatus. we say hello to
+many new members who have joined us since the last issue which was
+published in may of last year. it is a real treat to have the opportunity
+to work on this once again. I hope you enjoy the issue and that it is the
+first of a busy 2018.
+
+my apologies to readers disappointed with the gap in publishing the
+newsletter. last year was a difficult time for me and left me without the
+opportunity to be a part of the town as much as I would have liked.
+because of this I did not feel in a good position to write a newsletter
+about what was going on. with more time in the new year I hope to see the
+newsletter fulfill its potential in bringing our amazing community closer
+together.
+
+  __       __   __           ___                __           __
+ / /____ _/ /  / /__   ___  / _/ _______  ___  / /____ ___  / /____
+/ __/ _ `/ _ \/ / -_) / _ \/ _/ / __/ _ \/ _ \/ __/ -_) _ \/ __(_-<
+\__/\_,_/_.__/_/\__/  \___/_/   \__/\___/_//_/\__/\__/_//_/\__/___/
+---------------------------------------------------------------------------
+1. tilde news
+2. around the town
+3. ~ page spotlight. this month: ~joniwoni
+4. new members
+5. a note from the editor
+
+  ___    __  _ __   __
+ <  /   / /_(_) /__/ /__   ___  ___ _    _____
+ / /   / __/ / / _  / -_) / _ \/ -_) |/|/ (_-<
+/_(_)  \__/_/_/\_,_/\__/ /_//_/\__/|__,__/___/
+---------------------------------------------------------------------------
+the news desk is taking a break this issue as including all the happenings
+since may did not seem right. look forward to its inclusion in next months
+issue.
+
+   ___                              __  __  __         __
+  |_  | ___ ________  __ _____  ___/ / / /_/ /  ___   / /____ _    _____
+ / __/_/ _ `/ __/ _ \/ // / _ \/ _  / / __/ _ \/ -_) / __/ _ \ |/|/ / _ \
+/____(_)_,_/_/  \___/\_,_/_//_/\_,_/  \__/_//_/\__/  \__/\___/__,__/_//_/
+---------------------------------------------------------------------------
+MICROSCOPE GAME!
+
+tilde.town stalwart ~krowbar is running a game of
+microscope, open to all members of the town! in ~korwbar's words:
+
+"Microscope is a game about collaborative stories. Determine the scope,
+choose the narrative palate, create historical periods, then zoom in.
+Focus history's Lens to find out what Events took place in The Age of
+Enlightenment or play a Scene to answer what the Mad King gave in exchange
+for magic. You have to power to create or topple empires, people or gods -
+although they always may be revisited later. But remember, surprises are
+bound to occur. You may not know the full history yet."
+
+to get involved, drop ~krowbar a message on irc or alpine.
+
+ASCIIFARM!
+
+tilde.town hero ~troido has been working hard on the fantastic
+asciifarm which you should really check out if you have not seen it yet.
+~troido writes:
+
+"AsciiFarm is a project to make a farming rpg for the town. Play the game
+by running the `asciifarm` command in your shell, or if you want
+fullwidth, run `asciifarm -c fullwidth`. For more information and helping
+with development see: https://github.com/jmdejong/asciifarm
+
+Please leave feedback on asciifarm in the bbj thread, on github issues or
+by telling ~troido!"
+
+CENTRALFEELS
+
+tilde.town senior associate ~login has furnished us with some
+tantalising info on both centralfeels. they have transmitted packets
+containing the following characters:
+
+"centralfeels, tilde.town's latest feels in reverse-chronological order
+
+To make it easier to browse everyone's feels on the web, centralfeels is a
+website at https://tilde.town/~login/centralfeels that collects the latest
+feels from all users that have opted in and displayes the latest twenty.
+To opt in, just type (without quotes) `touch ~/.centralfeels` in your
+prompt.  If you've just written a post and want to update centralfeels
+manually, just type (without quotes)
+`/home/login/cronjobs/update_centralfeels`.  https://centralfeels.cf is a
+convenient URL that redirects to https://tilde.town/~login/centralfeels ."
+
+WRITO
+
+but that's not even all! ~login goes on to communicate:
+
+"viewing writo's world on the web
+
+~selfsame made a persistent world with no private ownership called writo.
+You can draw ASCII art with colour on an infinitely large grid. He made a
+viewer for it at https://tilde.town/~selfsame/writo.html but it's out of
+date, only in black-and-white, and doesn't display characters at negative
+coordinates. My version of writo's webview solves all these problems, and
+has a one-to-one correspondence with how writo looks on the telnet client.
+You can visit my version of writo's webview at
+https://tilde.town/~login/writo/ . If you want to update it manually, just
+type (without quotes) `/home/login/cronjobs/update_writo` at the prompt."
+
+thank you ~login!
+
+   ____                   __  ___      __   __
+  |_  /    ___ ___  ___  / /_/ (_)__ _/ /  / /_
+ _/_ <_   (_-</ _ \/ _ \/ __/ / / _ `/ _ \/ __/
+/____(_) /___/ .__/\___/\__/_/_/\_, /_//_/\__/
+------------/_/----------------/___/---------------------------------------
+in this month's spotlight we're taking a look at tilde.town member
+~joniwoni's page which you can view at http://tilde.town/~joniwoni/.
+
+~joniwoni has some completely incredible little webgl bits and some lovely
+8-bit computer noises going on. the absolute highlight of their page for
+me though is this textbox demo: http://tilde.town/~joniwoni/visceral/
+
+the sounds remind me so much of old dos games that I used to play.
+something about those crunchy bleepy sounds reminds me of exploring CDs
+full of games, trying to decipher them without any manuals. thanks for a
+potent nostalgia hit, ~joniwoni!
+
+
+  ____                                       __
+ / / /    ___  ___ _    __  __ _  ___ __ _  / /  ___ _______
+/_  _/   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
+ /_/(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
+---------------------------------------------------------------------------
+due to the sheer colume of new members since may and also due to some
+technical problems, this section is taking a break this month. huge
+apologies to all our amazing new members who have joined during that
+period.  this section resumes next month.
+
+   ____            ___ __          _                  __
+  / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
+ /__ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
+/____(_)  \__/\_,_/_/\__/\___/_/   /___/ /_//_/\___/\__/\__/
+---------------------------------------------------------------------------
+thank you so much for joining us for this issue of the newsletter. special
+thanks to everyone who was able to contribute something to this issue, it
+is hugely appreciated.
+
+the newsletter grew out of a desire to see more awareness of the amazing
+projects on the town and foster collaboration between our inspirational
+members. it therefore thrives on the contributions of you, our members.
+
+if you are working on anything you think people might be interested in,
+please email me. if you have published anything you think is cool or have
+seen anything on somebody else's page, please email me. if you have any
+ideas of future issues or feedback on the newsletter, I would be so happy
+to receive it.
+
+townies engage with our community in different ways and it is not always
+visible. so even if you have something you think everyone has seen it is
+still definitely worth letting me know.
+
+thank you so much for reading and for being part of this wonderful
+community.
+
+~jumblesale x
