@@ -1,0 +1,274 @@
+        _
+    o  | |    |                                     o
+_|_    | |  __|   _  _|_  __           _  _     _|_     _  _  _    _   ,
+ |  |  |/  /  |  |/   |  /  \_|  |  |_/ |/ |     |  |  / |/ |/ |  |/  / \_
+ |_/|_/|__/\_/|_/|__/o|_/\__/  \/ \/    |  |_/   |_/|_/  |  |  |_/|__/ \/
+===========================================================================
+
+
+FEBRUARY 2018
+---------------------------------------------------------------------------
+hello friends and welcome to a very special february edition of the
+tilde.town times! thank you so much to everyone who has contributed to
+the most packed edition of the times so far.
+
+this month comes with many exciting new things happening around the town
+and a fantastic influx of new members. the tilde.town times survives on
+the gracious contributions of our members and so if you have seen anything
+around the town you would like to see included, please do no hesitate to
+submit it and it will make it into the next issue.
+
+  __       __   __           ___                __           __
+ / /____ _/ /  / /__   ___  / _/ _______  ___  / /____ ___  / /____
+/ __/ _ `/ _ \/ / -_) / _ \/ _/ / __/ _ \/ _ \/ __/ -_) _ \/ __(_-<
+\__/\_,_/_.__/_/\__/  \___/_/   \__/\___/_//_/\__/\__/_//_/\__/___/
+---------------------------------------------------------------------------
+1. tilde news
+2. around the town
+3. spotlight
+4. new members
+5. editor's note
+6. moment of reflection
+
+  ___    __  _ __   __
+ <  /   / /_(_) /__/ /__   ___  ___ _    _____
+ / /   / __/ / / _  / -_) / _ \/ -_) |/|/ (_-<
+/_(_)  \__/_/_/\_,_/\__/ /_//_/\__/|__,__/___/
+---------------------------------------------------------------------------
+hello and welcome to the tilde newsdesk. please help yourself to some
+of the most exciting recent happenings on tilde.town.
+
+A TOWNIE IN NEED
+our friend ~cel finds themself in a tough situation. we have started a
+fundraiser to try to provide them with financial support. if you can spare
+any money it would be very much appreciated. the fundraiser page is at
+https://www.gofundme.com/pitch-in-for-a-townie.
+
+DISCORD SERVER!
+did you know that tilde.town has a discord server? I did not, but now I
+do! you can access it at https://discord.gg/qy53Bf.
+
+MINECRAFT SERVER!
+on the subject of gameing, we also have a minecraft server! wow! you can
+access it at 206.255.129.18 but you'll also need modpacks to play. for
+more info, check out the thread on bbj. to access bbj, type bbj at the
+terminal. thank you so much to ~desvox for setting this up!
+
+   ___                              __  __  __         __
+  |_  | ___ ________  __ _____  ___/ / / /_/ /  ___   / /____ _    _____
+ / __/_/ _ `/ __/ _ \/ // / _ \/ _  / / __/ _ \/ -_) / __/ _ \ |/|/ / _ \
+/____(_)_,_/_/  \___/\_,_/_//_/\_,_/  \__/_//_/\__/  \__/\___/__,__/_//_/
+---------------------------------------------------------------------------
+exciting updates to feels engine this month come from endorphant who
+writes:
+
+~ FEELS ENGINE UPDATES ~
+
+vilmibm helped me out to get gopher support in the feels engine; you now
+have the option of cross-posting to gopher. if you don't already have
+gopher set up, enabling gopher support in the feels engine should
+automatically create the directory structure for your gopher hole. gopher
+is a pre-www internet protocol that mimics a directory structure instead of
+the hyperlink format of html; tilde town has a gopher server that you can
+check out with a gopher-compatible browser at gopher://tilde.town (for more
+deets, check out the gopher page on the ~town wiki:
+http://tilde.town/wiki/gopher.html )
+
+rainbow menus! you can now enable colorful menus, which can both improve
+legibility of long list displays, and also make your terminal more visually
+exciting! i'm interested in how readable the rainbow menus are with your
+terminal environment; if the colors are hard on your eyes, please let me
+know so i can consider adjustments for a future update! there's a github
+issue for that here: https://github.com/modgethanc/ttbp/issues/5
+
+pub/nopub toggling! this has been a long overdue feature, but if you are
+publishing your posts to web/gopher, there's now an option within the
+interface to let you toggle whether or not individual posts get published
+outside of the tilde.town shell environment. posts marked 'nopub' will not
+get written to html/gopher, but will still be readable by other townies
+from the feels engine. by default, posts are always published, but if
+you mark a post a 'nopub' afterwards, it will be immediately unpublished
+from html/gopher. likewise, if a nopub post gets reverted to a published
+post, it will get immediately written back to html/gopher.
+
+if you aren't publishing your posts at all, this menu won't be available to
+you at all, because your posts will never be published. also, if you are
+currently publishing, set a bunch of nopubs, then switch off publishing
+altogether, your nopubs list will be preserved; this means that if you then
+turn publishing on later, your nopubs will remain unpublished.
+
+there's probably some hiccups with this most recent update (as usual,
+because i am lazy/bad at testing my code <_<), so please send me mail or
+pop into #ttbp on irc if you're having problems or have questions about
+these updates!
+
+wow, thanks ~endorphant!
+
+we also have a couple of new tools from login who writes:
+
+TILDECOIN I really wanted tilde.town to have an informal currency system
+that could be used to exchange value. I created a program called `tcoin`
+to make that happen.
+
+When you first type `tcoin` in your prompt, you'll be told you haven't
+initialised yet and that you'd need to run `tcoin init`. When you run
+`tcoin init`, you'll be asked to create a passphrase. Once you've done
+that, you'll be given 1000 tildecoins (every user is) and told that your
+account was created successfully.
+
+To log into `tcoin`, you type `tcoin on`, enter your passphrase, and wait
+for a success/failure message. `tcoin` uses `whoami` to identify the
+username and `scrypt` to authenticate with the passphrase. To discourage
+brute-forcing and to make passwords of shorter length safer, scrypt takes
+about a second or two to authenticate using your passphrase.
+
+Once you've logged in, running `tcoin` will show your messages (which
+includes details of transactions sent and received and any messages sent
+along with each transaction) and balance.
+
+To send some tildecoins, run `tcoin send <username> <amount> [<message>]`,
+where <message> is optional, but <username> and <amount> are mandatory.
+The amount must be a fixed point decimal number with two decimal places.
+If it is not, it will be converted to one. For example, 314.159 will
+become 314.15 and 42 will become 42.00.
+
+You can send tildecoins to yourself as well. You can use this feature to
+send yourself messages. You can use `tcoin` as a way of chatting with
+someone as well, by sending a small amount of tildecoins back and forth
+with a message included with each.
+
+The first hack of tildecoin was performed by ~elly. I give her complete
+credit with helping make `tcoin` safer. The most prominent hack till now
+has been from ~selfsame. His program, ~selfsame/flowers, will steal 900
+tildecoins from you if you run it. The whole reason passphrase-based
+authentication was implemented was so that you could run `tcoin off` to
+log off before running any programs whose nefariousness you weren't aware
+of.
+
+hus, it is good security practice to not run any untrusted programs while
+you're logged into `tcoin`, and to run `tcoin off` and log off from
+`tcoin` before running any programs.
+
+If you want to review `tcoin`'s source code and compare the executable
+with the compiled source code, you can find the source code at
+/home/login/bin/src/tcoin/tcoin.cpp. You can compile it by running `g++
+/home/login/bin/src/tcoin/tcoin.cpp -std=g++11`. This will create a file
+called `a.out` in your current directory. Comapring this file with
+/usr/local/bin/tcoin (this directory actually symlinks to
+/home/login/bin/tcoin) will allow you to make sure that `tcoin` is safe to
+run.
+
+TILDEBOOK Tildebook is a directory for fello townies. Named after Facebook
+and modelled after its original purpose of being a "book of faces", i.e.,
+a directory of college students with their faces, tildebook takes the
+simple approach of giving you a 144px by 144px space to put anything you
+want.
+
+The way it works is you create a web page that looks good in a 144px by
+144px space in your public_html directory called tildebook_profile.html.
+If your username is ~example, then your tildebook page should be
+accessible at https://tilde.town/~example/tildebook_page.html. The
+update_tildebook script runs every week and checks everyone's public_html
+directory for the existence of a non-empty tildebook_page.html file. If
+found, it hyperlinks to them on https://tilde.town/~login/tildebook/. If
+you want to run the script yourself (for example, after having create a
+tildebook_profile.html page), you can do so by running
+/home/login/cronjobs/update_tildebook.
+
+The URL https://tildebook.tk redirects to
+https://tilde.town/~login/tildebook/ for now, but the latter will always
+be available and should be used as the URL for the bookmark if you
+bookmark tildebook.
+
+Every time the command is run, the order of the townies shown is
+randomised so that every townie has an equal chance of appearing at the
+top of the page.
+
+wow, thanks ~login!
+
+   ____                   __  ___      __   __
+  |_  /    ___ ___  ___  / /_/ (_)__ _/ /  / /_
+ _/_ <_   (_-</ _ \/ _ \/ __/ / / _ `/ _ \/ __/
+/____(_) /___/ .__/\___/\__/_/_/\_, /_//_/\__/
+------------/_/----------------/___/---------------------------------------
+the tilde.town spotlight is a section where we look at one user's ~ page.
+this month we are checking out the wonderful work of tilde.town stalwart
+~mio - http://tilde.town/~mio/
+
+there's too much to love about this page. the origami is of course
+stunning but the entire design is a real delight. it is simple, effective
+and really striking. the page reflects the quality of ~mio's origami:
+something stunning out of simple components. thanks ~mio!
+
+  ____                                       __
+ / / /    ___  ___ _    __  __ _  ___ __ _  / /  ___ _______
+/_  _/   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
+ /_/(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
+---------------------------------------------------------------------------
+welcome everyone who has joined recently! here are the new members and
+their ~ pages. a ** indicates they have updated their index page!
+
+• http://tilde.town/~vitaminplz
+• http://tilde.town/~emb              **
+• http://tilde.town/~fairlady         
+• http://tilde.town/~camilian
+• http://tilde.town/~mcf
+• http://tilde.town/~wiarien
+• http://tilde.town/~halian_tesaukan
+• http://tilde.town/~psi
+• http://tilde.town/~miwilc
+• http://tilde.town/~cwmccabe         **
+• http://tilde.town/~fielious
+• http://tilde.town/~erin             **
+• http://tilde.town/~s21
+• http://tilde.town/~toffee           **
+• http://tilde.town/~quinno
+• http://tilde.town/~anarchastronomer
+• http://tilde.town/~noisecapella
+• http://tilde.town/~quine            **
+• http://tilde.town/~nursemchurt
+• http://tilde.town/~wuz              **
+• http://tilde.town/~impish
+• http://tilde.town/~cylrs
+• http://tilde.town/~agiri
+• http://tilde.town/~classique
+• http://tilde.town/~bootsy           **
+• http://tilde.town/~forrest
+• http://tilde.town/~techkid6
+• http://tilde.town/~dbucklin
+• http://tilde.town/~dawran6
+• http://tilde.town/~bunnygirl
+• http://tilde.town/~tundrajimmy
+• http://tilde.town/~vox              **
+• http://tilde.town/~tihnik
+• http://tilde.town/~avrak
+• http://tilde.town/~cymatist
+• http://tilde.town/~exo
+• http://tilde.town/~hashdang         **
+• http://tilde.town/~ne1              **
+• http://tilde.town/~canadaduane      **
+• http://tilde.town/~ironlake
+• http://tilde.town/~silver           **
+• http://tilde.town/~ebbtide
+• http://tilde.town/~international    **
+• http://tilde.town/~lily             **
+
+wow, so many new users this month! I hope you all have a lovely time x
+
+   ____            ___ __          _                  __
+  / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
+ /__ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
+/____(_)  \__/\_,_/_/\__/\___/_/   /___/ /_//_/\___/\__/\__/
+---------------------------------------------------------------------------
+TBW(ritten)
+
+  ____             _____        __  _
+ / __/    _______ / _/ /__ ____/ /_(_)__  ___
+/ _ \_   / __/ -_) _/ / -_) __/ __/ / _ \/ _ \
+\___(_) /_/  \__/_//_/\__/\__/\__/_/\___/_//_/
+---------------------------------------------------------------------------
+a very sweet moment of reflection this month comes to us from ~wuz:
+
+    "try to detach your sense of worth with how situations end up.
+    the stigma around failure stems from our cultural feeling that ability
+    isn't the same as worth, which just isn't true"
