@@ -13,10 +13,13 @@ tilde.town times! thank you so much to everyone who has contributed to
 the most packed edition of the times so far.
 
 this month comes with many exciting new things happening around the town
-and a fantastic influx of new members. the tilde.town times survives on
-the gracious contributions of our members and so if you have seen anything
-around the town you would like to see included, please do no hesitate to
-submit it and it will make it into the next issue.
+and a fantastic influx of new members. this month also sees the inclusion
+of our first ever essay.
+
+the tilde.town times survives on the gracious contributions of our
+members and so if you have seen anything around the town you would
+like to see included, please do no hesitate to submit it and it will make
+it into the next issue.
 
   __       __   __           ___                __           __
  / /____ _/ /  / /__   ___  / _/ _______  ___  / /____ ___  / /____
@@ -46,7 +49,9 @@ https://www.gofundme.com/pitch-in-for-a-townie.
 
 DISCORD SERVER!
 did you know that tilde.town has a discord server? I did not, but now I
-do! you can access it at https://discord.gg/qy53Bf.
+do! you can access it at https://discord.gg/qy53Bf. grab your
+cybregoggles and open-palm slam a cassette into your playbox, it's
+gameing time!
 
 MINECRAFT SERVER!
 on the subject of gameing, we also have a minecraft server! wow! you can
@@ -91,11 +96,12 @@ you mark a post a 'nopub' afterwards, it will be immediately unpublished
 from html/gopher. likewise, if a nopub post gets reverted to a published
 post, it will get immediately written back to html/gopher.
 
-if you aren't publishing your posts at all, this menu won't be available to
-you at all, because your posts will never be published. also, if you are
-currently publishing, set a bunch of nopubs, then switch off publishing
-altogether, your nopubs list will be preserved; this means that if you then
-turn publishing on later, your nopubs will remain unpublished.
+if you aren't publishing your posts at all, this menu won't be available
+to you at all, because your posts will never be published. also, if you
+are currently publishing, set a bunch of nopubs, then switch off
+publishing altogether, your nopubs list will be preserved; this means
+that if you then turn publishing on later, your nopubs will remain
+unpublished.
 
 there's probably some hiccups with this most recent update (as usual,
 because i am lazy/bad at testing my code <_<), so please send me mail or
@@ -104,6 +110,7 @@ these updates!
 
 wow, thanks ~endorphant!
 
+~ TILDECOIN / TILDEBOOK ~
 we also have a couple of new tools from login who writes:
 
 TILDECOIN I really wanted tilde.town to have an informal currency system
@@ -145,9 +152,9 @@ authentication was implemented was so that you could run `tcoin off` to
 log off before running any programs whose nefariousness you weren't aware
 of.
 
-hus, it is good security practice to not run any untrusted programs while
-you're logged into `tcoin`, and to run `tcoin off` and log off from
-`tcoin` before running any programs.
+Thus, it is good security practice to not run any untrusted programs
+while you're logged into `tcoin`, and to run `tcoin off` and log off
+from `tcoin` before running any programs.
 
 If you want to review `tcoin`'s source code and compare the executable
 with the compiled source code, you can find the source code at
@@ -185,6 +192,16 @@ randomised so that every townie has an equal chance of appearing at the
 top of the page.
 
 wow, thanks ~login!
+
+TOWNS & TAVERNS!
+our very own ~archangelic has been running a game of dungeons and
+dragons called towns and taverns! the first session is available to view
+online just here:
+  http://media.archangelic.space/towns_and_taverns_ep1.mp4
+
+if you have trouble playing this, ~archangelic writes that vlc is able
+to stream it. if you'd like to get involved in the game please just get
+in touch with ~archangelic.
 
    ____                   __  ___      __   __
   |_  /    ___ ___  ___  / /_/ (_)__ _/ /  / /_
@@ -260,7 +277,80 @@ wow, so many new users this month! I hope you all have a lovely time x
  /__ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
 /____(_)  \__/\_,_/_/\__/\___/_/   /___/ /_//_/\___/\__/\__/
 ---------------------------------------------------------------------------
-TBW(ritten)
+this month our editor ~jumblesale writes in with an essay about our
+responsibilities to each other as members of this community:
+
+we're incredibly fortunate on tilde.town to have such a comprehensive code
+of conduct (http://tilde.town/wiki/conduct.html). I will avoid
+paraphrasing it here but I think it is worth all of us having a fresh read
+of it and reflecting on the vision for tilde.town which it describes. as
+our community expands and more people join it is especially important to
+be reminded on what behaviour is most important when interacting with
+other members.
+
+I am not a spokesperson for tilde.town but if I could offer an extension
+to our ethos it might be: be considerate, be polite, but most of all, be
+kind.
+
+being considerate is acknowledging that we are using a shared resource and
+that we have been given huge responsibility within it. this includes
+things like not using up loads of disk and cpu but also not abusing things
+that call-out to other services like the toot or tweet commands, and being
+sparing with our use of wall which can be confusing to new joiners and
+distracting to anyone with an active session. remember the visibility of
+these commands: everyone is going to see you using them and in the case of
+wall are going to have to manually dismiss them. wall serves a wonderful
+creative purpose as showcased on ~vilmibm's page
+(http://tilde.town/~vilmibm/town.html). it is worth just considering the
+value of your message before sending it.
+
+it is also good to keep in mind that we have new users joining all the
+time and their first impressions are likely to determine whether or not
+they will become another vital part of our community. if someone joined
+right this moment, would your behaviour show our community in its best
+light? tilde.town has so much to offer that it is a tragedy if anyone
+feels they are not welcome.
+
+being polite is respecting the way you make others feel. if you are saying
+something which makes another member feel uncomfortable, it is far more
+valuable for you to respect their feelings than it is to keep talking.
+most large social networks have coalesced around an idea that free speech
+is the most important attribute. we have the opportunity to contribute to
+a space where the feelings of our fellow members is more important than
+our ability to talk about what we want. a polite thing to do is move
+conversations to less visible spaces - channels in irc are free to create
+and can be a good way to split off talk about things like current politics
+which can be a distressing topic for members of our community.
+
+being kind means acknowledging that the unusual nature of tilde.town will
+attract people disproportionately disenfranchised by other online
+communities. it means being able to understand that there are forces which
+systemetically oppress other members of this community, even if those same
+systems have been beneficial to you. if you are a beneficiary then this is
+not to criticise you, just to ask that you have extra patience for people
+who do not share your circumstances. tilde.town is always likely to
+attract people who are in some way marginalised. our responsibility as
+members to provide a place where they feel welcomed and valued - the same
+behaviour we would extend to any member of our community.
+
+it is also important that we provide a space where members are able to
+discuss ideas, explore and expand their knowledge. tilde.town is also
+unique in being an active multi-user system open to public registrations.
+we have a responsibility to support one another's learning in a respectful
+way. there is nowhere else on the internet where many projects which exist
+on tilde.town could be created. it is vital for us to preserve that.
+
+tilde.town is a truly unique place which has meant so much to me during my
+time here. it has changed my life and enriched it with many wonderful
+friends. when we see problems it is also our responsibility to work to fix
+them rather than to ignore them or disgard our community. I have always
+thought it is important to combat cliqueism in everything we create for
+for the town - a fracturing of our close-knit community would not be a
+benefit to anyone. to avoid this we must be able to treat each other with
+respect and gently remind one another of our responsibilities to our
+community when that fails.
+
+thank you for reading.
 
   ____             _____        __  _
  / __/    _______ / _/ /__ ____/ /_(_)__  ___
