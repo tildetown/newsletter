@@ -73,7 +73,7 @@ reading goggles, it's literature time book fans!
 /____(_) /___/ .__/\___/\__/_/_/\_, /_//_/\__/
 ------------/_/----------------/___/---------------------------------------
 the tilde.town spotlight is a section where we look at one user's ~ page.
-this month we are taking a look at ~forkingpaths' wonderful page:
+this month we are taking a look at ~forkingpath's wonderful page:
 http://tilde.town/~forkingpaths
 
 simple but completely satisfying, I could watch this maze spiral out all
@@ -84,6 +84,9 @@ day.
 /_  _/   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
  /_/(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
 ---------------------------------------------------------------------------
+welcome everyone who has joined recently! here are the new members and
+their ~ pages. a ** indicates they have updated their index page!
+
 • https://tilde.town/~tshdw
 • https://tilde.town/~florrie            **
 • https://tilde.town/~navarii
