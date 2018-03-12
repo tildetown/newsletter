@@ -35,7 +35,7 @@ editions.
 ---------------------------------------------------------------------------
 hello and welcome to the tilde news desk. please make yourself comfortable.
 there is no news this month because nothing has happened. the newsdesk is
-taking the day off and going to a gallery then getting ice creams.
+taking the day off and going to a gallery, then getting ice cream.
 
    ___                              __  __  __         __
   |_  | ___ ________  __ _____  ___/ / / /_/ /  ___   / /____ _    _____
@@ -61,69 +61,74 @@ you win so far unconfirmed.
 
 ~ BOOK CLUB ~
 tilde.town mythical figure ~wuz has started a book club! the current book
-is What is Property? and you can find a link to it on the book club's
+is 'What is Property?' and you can find a link to it on the book club's
 page: http://tilde.town/~wuz/tilde_book_club
 
 time to open-palm slam a paperback into your bookshelf and slip on your
 reading goggles, it's literature time book fans!
+
    ____                   __  ___      __   __
   |_  /    ___ ___  ___  / /_/ (_)__ _/ /  / /_
  _/_ <_   (_-</ _ \/ _ \/ __/ / / _ `/ _ \/ __/
 /____(_) /___/ .__/\___/\__/_/_/\_, /_//_/\__/
 ------------/_/----------------/___/---------------------------------------
 the tilde.town spotlight is a section where we look at one user's ~ page.
-this month we are taking a look at ~forkingpath's wonderful page:
+this month we are taking a look at ~forkingpaths' wonderful page:
 http://tilde.town/~forkingpaths
 
 simple but completely satisfying, I could watch this maze spiral out all
 day.
+
   ____                                       __
  / / /    ___  ___ _    __  __ _  ___ __ _  / /  ___ _______
 /_  _/   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
  /_/(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
 ---------------------------------------------------------------------------
-• http://tilde.town/~tshdw
-• http://tilde.town/~florrie            **
-• http://tilde.town/~navarii
-• http://tilde.town/~art
-• http://tilde.town/~equa               **
-• http://tilde.town/~michelelelilinn    **
-• http://tilde.town/~meowtastic
-• http://tilde.town/~britt
-• http://tilde.town/~bowlercaptain
-• http://tilde.town/~loki
-• http://tilde.town/~millenial_mang_man
-• http://tilde.town/~serafin
-• http://tilde.town/~testing1234
-• http://tilde.town/~frog               **
-• http://tilde.town/~uxintro
-• http://tilde.town/~poproar
-• http://tilde.town/~containsliquid
-• http://tilde.town/~slythe             **
-• http://tilde.town/~regini
-• http://tilde.town/~sidd               **
-• http://tilde.town/~molten             **
-• http://tilde.town/~instrud            **
-• http://tilde.town/~toothbrush         **
-• http://tilde.town/~sunset             **
-• http://tilde.town/~severak            **
-• http://tilde.town/~davywtf
-• http://tilde.town/~majere
-• http://tilde.town/~acarter
-• http://tilde.town/~zen
-• http://tilde.town/~von
-• http://tilde.town/~elleel
-• http://tilde.town/~eln00b
-• http://tilde.town/~jan6               **
-• http://tilde.town/~kdelwat
-• http://tilde.town/~fribmendes
-• http://tilde.town/~sp0rk
-• http://tilde.town/~saturn597
-• http://tilde.town/~shmibs
-• http://tilde.town/~aiex
-• http://tilde.town/~tel
-• http://tilde.town/~jacko
-• http://tilde.town/~r02
+• https://tilde.town/~tshdw
+• https://tilde.town/~florrie            **
+• https://tilde.town/~navarii
+• https://tilde.town/~art
+• https://tilde.town/~equa               **
+• https://tilde.town/~michelelelilinn    **
+• https://tilde.town/~meowtastic
+• https://tilde.town/~britt
+• https://tilde.town/~bowlercaptain
+• https://tilde.town/~loki
+• https://tilde.town/~millenial_mang_man
+• https://tilde.town/~serafin
+• https://tilde.town/~testing1234
+• https://tilde.town/~frog               **
+• https://tilde.town/~uxintro
+• https://tilde.town/~poproar
+• https://tilde.town/~containsliquid
+• https://tilde.town/~slythe             **
+• https://tilde.town/~regini
+• https://tilde.town/~sidd               **
+• https://tilde.town/~molten             **
+• https://tilde.town/~instrud            **
+• https://tilde.town/~toothbrush         **
+• https://tilde.town/~sunset             **
+• https://tilde.town/~severak            **
+• https://tilde.town/~davywtf
+• https://tilde.town/~majere
+• https://tilde.town/~acarter
+• https://tilde.town/~zen
+• https://tilde.town/~von
+• https://tilde.town/~elleel
+• https://tilde.town/~eln00b
+• https://tilde.town/~jan6               **
+• https://tilde.town/~kdelwat
+• https://tilde.town/~fribmendes
+• https://tilde.town/~sp0rk
+• https://tilde.town/~saturn597
+• https://tilde.town/~shmibs
+• https://tilde.town/~aiex
+• https://tilde.town/~tel
+• https://tilde.town/~jacko
+• https://tilde.town/~r02
+
+**these townies updated their home pages
+
    ____            ___ __          _                  __
   / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
  /__ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
@@ -134,6 +139,7 @@ contribution to the newsletter, no matter how trivial, please send it
 over! writing this is a pleasure but also kind of difficult, made
 much easier by having our esteemed members write in with things they
 would like to see included. thank you for reading x
+
   ____             _____        __  _
  / __/    _______ / _/ /__ ____/ /_(_)__  ___
 / _ \_   / __/ -_) _/ / -_) __/ __/ / _ \/ _ \
