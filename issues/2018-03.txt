@@ -130,8 +130,6 @@ their ~ pages. a ** indicates they have updated their index page!
 • https://tilde.town/~jacko
 • https://tilde.town/~r02
 
-**these townies updated their home pages
-
    ____            ___ __          _                  __
   / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
  /__ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
