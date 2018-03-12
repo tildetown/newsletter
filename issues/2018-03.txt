@@ -1,0 +1,163 @@
+        _
+    o  | |    |                                     o
+_|_    | |  __|   _  _|_  __           _  _     _|_     _  _  _    _   ,
+ |  |  |/  /  |  |/   |  /  \_|  |  |_/ |/ |     |  |  / |/ |/ |  |/  / \_
+ |_/|_/|__/\_/|_/|__/o|_/\__/  \/ \/    |  |_/   |_/|_/  |  |  |_/|__/ \/
+===========================================================================
+
+
+MARCH 2018
+---------------------------------------------------------------------------
+hello friends and welcome to this, a very special march edition of the
+tilde.town times! 
+
+the tilde.town times survives on the generous contributions of our
+members. if you've seen anything around the town, please do not
+hesitate in submitting it so that it can be included in future
+editions.
+
+  __       __   __           ___                __           __
+ / /____ _/ /  / /__   ___  / _/ _______  ___  / /____ ___  / /____
+/ __/ _ `/ _ \/ / -_) / _ \/ _/ / __/ _ \/ _ \/ __/ -_) _ \/ __(_-<
+\__/\_,_/_.__/_/\__/  \___/_/   \__/\___/_//_/\__/\__/_//_/\__/___/
+---------------------------------------------------------------------------
+1. tilde news
+2. around the town
+3. spotlight
+4. new members
+5. editor's note
+6. moment of reflection
+
+  ___    __  _ __   __
+ <  /   / /_(_) /__/ /__   ___  ___ _    _____
+ / /   / __/ / / _  / -_) / _ \/ -_) |/|/ (_-<
+/_(_)  \__/_/_/\_,_/\__/ /_//_/\__/|__,__/___/
+---------------------------------------------------------------------------
+hello and welcome to the tilde news desk. please make yourself comfortable.
+there is no news this month because nothing has happened. the newsdesk is
+taking the day off and going to a gallery then getting ice creams.
+
+   ___                              __  __  __         __
+  |_  | ___ ________  __ _____  ___/ / / /_/ /  ___   / /____ _    _____
+ / __/_/ _ `/ __/ _ \/ // / _ \/ _  / / __/ _ \/ -_) / __/ _ \ |/|/ / _ \
+/____(_)_,_/_/  \___/\_,_/_//_/\_,_/  \__/_//_/\__/  \__/\___/__,__/_//_/
+---------------------------------------------------------------------------
+another amazing month around the town as we have new software, new
+activities and entirely new digital experiences!
+
+~ HOLODECK ~
+wow! this is amazing! tilde.town hero ~ne1 has created holodeck, a shared
+experience / storytelling tool where you can navigate a user-created
+world and add to the shared text. check out the project page here:
+https://tilde.town/~ne1/code.html
+
+to check out this amazing tool just run ~ne1/bin/holodeck.
+
+~ SOLITAIRE ~
+we now have a solitaire game on tilde.town! wow! relive wasted hours when
+you should have been filling in spreadsheets in windows 95 by running
+usolitaire at the command prompt. cards bouncing around the screen when
+you win so far unconfirmed.
+
+~ BOOK CLUB ~
+tilde.town mythical figure ~wuz has started a book club! the current book
+is What is Property? and you can find a link to it on the book club's
+page: http://tilde.town/~wuz/tilde_book_club
+
+time to open-palm slam a paperback into your bookshelf and slip on your
+reading goggles, it's literature time book fans!
+   ____                   __  ___      __   __
+  |_  /    ___ ___  ___  / /_/ (_)__ _/ /  / /_
+ _/_ <_   (_-</ _ \/ _ \/ __/ / / _ `/ _ \/ __/
+/____(_) /___/ .__/\___/\__/_/_/\_, /_//_/\__/
+------------/_/----------------/___/---------------------------------------
+the tilde.town spotlight is a section where we look at one user's ~ page.
+this month we are taking a look at ~forkingpath's wonderful page:
+http://tilde.town/~forkingpaths
+
+simple but completely satisfying, I could watch this maze spiral out all
+day.
+  ____                                       __
+ / / /    ___  ___ _    __  __ _  ___ __ _  / /  ___ _______
+/_  _/   / _ \/ -_) |/|/ / /  ' \/ -_)  ' \/ _ \/ -_) __(_-<
+ /_/(_) /_//_/\__/|__,__/ /_/_/_/\__/_/_/_/_.__/\__/_/ /___/
+---------------------------------------------------------------------------
+• http://tilde.town/~tshdw
+• http://tilde.town/~florrie            **
+• http://tilde.town/~navarii
+• http://tilde.town/~art
+• http://tilde.town/~equa               **
+• http://tilde.town/~michelelelilinn    **
+• http://tilde.town/~meowtastic
+• http://tilde.town/~britt
+• http://tilde.town/~bowlercaptain
+• http://tilde.town/~loki
+• http://tilde.town/~millenial_mang_man
+• http://tilde.town/~serafin
+• http://tilde.town/~testing1234
+• http://tilde.town/~frog               **
+• http://tilde.town/~uxintro
+• http://tilde.town/~poproar
+• http://tilde.town/~containsliquid
+• http://tilde.town/~slythe             **
+• http://tilde.town/~regini
+• http://tilde.town/~sidd               **
+• http://tilde.town/~molten             **
+• http://tilde.town/~instrud            **
+• http://tilde.town/~toothbrush         **
+• http://tilde.town/~sunset             **
+• http://tilde.town/~severak            **
+• http://tilde.town/~davywtf
+• http://tilde.town/~majere
+• http://tilde.town/~acarter
+• http://tilde.town/~zen
+• http://tilde.town/~von
+• http://tilde.town/~elleel
+• http://tilde.town/~eln00b
+• http://tilde.town/~jan6               **
+• http://tilde.town/~kdelwat
+• http://tilde.town/~fribmendes
+• http://tilde.town/~sp0rk
+• http://tilde.town/~saturn597
+• http://tilde.town/~shmibs
+• http://tilde.town/~aiex
+• http://tilde.town/~tel
+• http://tilde.town/~jacko
+• http://tilde.town/~r02
+   ____            ___ __          _                  __
+  / __/    ___ ___/ (_) /____  ___( )___   ___  ___  / /____
+ /__ \_   / -_) _  / / __/ _ \/ __//(_-<  / _ \/ _ \/ __/ -_)
+/____(_)  \__/\_,_/_/\__/\___/_/   /___/ /_//_/\___/\__/\__/
+---------------------------------------------------------------------------
+just a small note this month to ask that if any member has any
+contribution to the newsletter, no matter how trivial, please send it
+over! writing this is a pleasure but also kind of difficult, made
+much easier by having our esteemed members write in with things they
+would like to see included. thank you for reading x
+  ____             _____        __  _
+ / __/    _______ / _/ /__ ____/ /_(_)__  ___
+/ _ \_   / __/ -_) _/ / -_) __/ __/ / _ \/ _ \
+\___(_) /_/  \__/_//_/\__/\__/\__/_/\___/_//_/
+---------------------------------------------------------------------------
+our moment of reflection this month comes from new town friend ~sunset
+who writes:
+
+Competition
+provides
+meaning
+in
+a
+meaningless
+life
+                                                                      You
+                                                                      can
+                                                                   choose
+                                                                      not
+                                                                       to
+                                                                  compete
+I
+will
+still
+be
+your
+friend
